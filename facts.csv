@@ -1,0 +1,16 @@
+fact,FY2024-25,FY2023-24,unit,source
+Revenue from operations,569348.77,487920.47,Rs lakh,PDF page 155
+Profit before tax,53548.15,44058.21,Rs lakh,PDF page 155
+Profit for the year,39044.88,32859.27,Rs lakh,PDF page 155
+Finance costs,15508.69,12387.67,Rs lakh,PDF page 155
+Depreciation,16883.24,16800.7,Rs lakh,PDF page 155
+Total assets,561216.13,470792.61,Rs lakh,PDF page 154
+Total borrowings,66625.74,57598.83,Rs lakh,PDF page 154
+Total equity,300475.08,264191.63,Rs lakh,PDF page 154
+Profit before interest and tax (PBIT),69056.84,56445.88,Rs lakh,"PDF page 155, calculated: profit before tax + finance costs, includes other income"
+EBITDA,85940.08,73246.58,Rs lakh,"PDF page 155, calculated"
+EBITDA margin,15.09,15.01,%,calculated
+PAT margin,6.86,6.73,%,calculated
+Debt / Equity,0.22,0.22,x,"calculated, borrowings only"
+Interest cover,4.45,4.56,x,calculated: PBIT / finance costs
+Revenue growth,16.69,,%,"calculated, FY2024-25 over FY2023-24"

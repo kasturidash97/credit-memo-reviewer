@@ -1,0 +1,38 @@
+[
+  {
+    "time": "2026-10-15 18:01",
+    "from": "memo_v1.json",
+    "to": "memo_v2.json",
+    "section": "Leverage and debt service",
+    "comment": "Explain what the interest cover of 4.45x means for lenders, using only the table.",
+    "old": "Total borrowings for J. Kumar Infraprojects Limited stood at 66625.74 Rs lakh [PDF page 154] in FY2024-25, an increase from 57598.83 Rs lakh [PDF page 154] in FY2023-24. The Debt/Equity ratio remained stable at 0.22x [\"calculated, borrowings only\"] for both years, supported by total equity of 300475.08 Rs lakh [PDF page 154] in FY2024-25. Finance costs increased to 15508.69 Rs lakh [PDF page 155] in FY2024-25. The interest cover ratio was 4.45x [calculated] in FY2024-25, a slight decrease from 4.56x [calculated] in FY2023-24.",
+    "new": "Total borrowings for J. Kumar Infraprojects Limited stood at 66625.74 Rs lakh [PDF page 154] in FY2024-25, an increase from 57598.83 Rs lakh [PDF page 154] in FY2023-24. The Debt/Equity ratio remained stable at 0.22x [\"calculated, borrowings only\"] for both years, supported by total equity of 300475.08 Rs lakh [PDF page 154] in FY2024-25. Finance costs increased to 15508.69 Rs lakh [PDF page 155] in FY2024-25. The interest cover ratio was 4.45x [calculated] in FY2024-25, a slight decrease from 4.56x [calculated] in FY2023-24. This means the company's earnings before interest and tax (EBIT) were 4.45 times its finance costs [calculated]. Specifically, EBIT was 69056.84 Rs lakh [calculated] (derived from Profit before tax of 53548.15 Rs lakh [PDF page 155] plus Finance costs of 15508.69 Rs lakh [PDF page 155]), which is 4.45 times the finance costs of 15508.69 Rs lakh [PDF page 155]. For lenders, this indicates a strong capacity for the company to cover its interest obligations from its operating earnings."
+  },
+  {
+    "time": "2026-10-15 18:14",
+    "from": "memo_v2.json",
+    "to": "memo_v3.json",
+    "section": "Business and financial performance",
+    "comment": "Explain revenue growth in 2 sentences, using only numbers in the table.",
+    "old": "J. Kumar Infraprojects Limited reported Revenue from operations of 569348.77 Rs lakh [PDF page 155] in FY2024-25, growing by 16.69% [calculated (FY25 over FY24)] from 487920.47 Rs lakh [PDF page 155] in FY2023-24. Profit for the year increased to 39044.88 Rs lakh [PDF page 155] in FY2024-25 from 32859.27 Rs lakh [PDF page 155] in FY2023-24. The PAT margin was 6.86% [calculated] in FY2024-25, up from 6.73% [calculated] in the prior year. EBITDA also improved to 85940.08 Rs lakh [\"PDF pages 154-155, calculated\"] in FY2024-25, with an EBITDA margin of 15.09% [calculated].",
+    "new": "J. Kumar Infraprojects Limited reported Revenue from operations of 569348.77 Rs lakh [PDF page 155] in FY2024-25. This represents a growth of 16.69% [calculated (FY25 over FY24)] from 487920.47 Rs lakh [PDF page 155] in FY2023-24. Profit for the year increased to 39044.88 Rs lakh [PDF page 155] in FY2024-25 from 32859.27 Rs lakh [PDF page 155] in FY2023-24. The PAT margin was 6.86% [calculated] in FY2024-25, up from 6.73% [calculated] in the prior year. EBITDA also improved to 85940.08 Rs lakh [\"PDF pages 154-155, calculated\"] in FY2024-25, with an EBITDA margin of 15.09% [calculated]."
+  },
+  {
+    "time": "2026-10-15 18:15",
+    "from": "memo_v3.json",
+    "to": "memo_v4.json",
+    "section": "Leverage and debt service",
+    "comment": "Explain interest cover in 2 sentences. Use only numbers already in the table. Do not calculate new numbers. Do not use words like strong or weak.",
+    "old": "Total borrowings for J. Kumar Infraprojects Limited stood at 66625.74 Rs lakh [PDF page 154] in FY2024-25, an increase from 57598.83 Rs lakh [PDF page 154] in FY2023-24. The Debt/Equity ratio remained stable at 0.22x [\"calculated, borrowings only\"] for both years, supported by total equity of 300475.08 Rs lakh [PDF page 154] in FY2024-25. Finance costs increased to 15508.69 Rs lakh [PDF page 155] in FY2024-25. The interest cover ratio was 4.45x [calculated] in FY2024-25, a slight decrease from 4.56x [calculated] in FY2023-24. This means the company's earnings before interest and tax (EBIT) were 4.45 times its finance costs [calculated]. Specifically, EBIT was 69056.84 Rs lakh [calculated] (derived from Profit before tax of 53548.15 Rs lakh [PDF page 155] plus Finance costs of 15508.69 Rs lakh [PDF page 155]), which is 4.45 times the finance costs of 15508.69 Rs lakh [PDF page 155]. For lenders, this indicates a strong capacity for the company to cover its interest obligations from its operating earnings.",
+    "new": "Total borrowings for J. Kumar Infraprojects Limited stood at 66625.74 Rs lakh [PDF page 154] in FY2024-25, an increase from 57598.83 Rs lakh [PDF page 154] in FY2023-24. The Debt/Equity ratio remained stable at 0.22x [\"calculated, borrowings only\"] for both years, supported by total equity of 300475.08 Rs lakh [PDF page 154] in FY2024-25. Finance costs increased to 15508.69 Rs lakh [PDF page 155] in FY2024-25. The interest cover ratio was 4.45x [calculated] in FY2024-25, a slight decrease from 4.56x [calculated] in FY2023-24. The interest cover ratio of 4.45x [calculated] in FY2024-25 indicates that the company's earnings before interest and tax were 4.45 times its finance costs. For FY2024-25, finance costs amounted to 15508.69 Rs lakh [PDF page 155]."
+  },
+  {
+    "time": "2026-10-15 18:51",
+    "from": "memo_v4.json",
+    "to": "memo_v5.json",
+    "section": "Business and financial performance",
+    "comment": "Remove the opinion words, use only what the table shows",
+    "old": "J. Kumar Infraprojects Limited reported Revenue from operations of 569348.77 Rs lakh [PDF page 155] in FY2024-25. This represents a growth of 16.69% [calculated (FY25 over FY24)] from 487920.47 Rs lakh [PDF page 155] in FY2023-24. Profit for the year increased to 39044.88 Rs lakh [PDF page 155] in FY2024-25 from 32859.27 Rs lakh [PDF page 155] in FY2023-24. The PAT margin was 6.86% [calculated] in FY2024-25, up from 6.73% [calculated] in the prior year. EBITDA also improved to 85940.08 Rs lakh [\"PDF pages 154-155, calculated\"] in FY2024-25, with an EBITDA margin of 15.09% [calculated].",
+    "new": "J. Kumar Infraprojects Limited reported Revenue from operations of 569348.77 Rs lakh [PDF page 155] in FY2024-25, compared to 487920.47 Rs lakh [PDF page 155] in FY2023-24. This represents a Revenue growth of 16.69% [calculated, FY2024-25 over FY2023-24]. Profit for the year was 39044.88 Rs lakh [PDF page 155] in FY2024-25 and 32859.27 Rs lakh [PDF page 155] in FY2023-24. The PAT margin was 6.86% [calculated] in FY2024-25 and 6.73% [calculated] in FY2023-24. EBITDA was 85940.08 Rs lakh [PDF page 155, calculated] in FY2024-25 and 73246.58 Rs lakh [PDF page 155, calculated] in FY2023-24. The EBITDA margin was 15.09% [calculated] in FY2024-25 and 15.01% [calculated] in FY2023-24."
+  }
+]
